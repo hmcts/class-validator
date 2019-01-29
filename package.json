@@ -1,7 +1,7 @@
 {
   "name": "@hmcts/class-validator",
   "private": true,
-  "version": "0.9.1.1",
+  "version": "0.9.1-a",
   "description": "Class-based validation with Typescript / ES6 / ES5 using decorators or validation schemas. Supports both node.js and browser",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -34,7 +34,7 @@
     "@types/gulp": "^4.0.2",
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.5.2",
-    "@types/sinon": "^5.0.1",
+    "@types/sinon": "^5.0.1 <5.0.6",
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "codecov": "^3.0.4",
